@@ -12,7 +12,7 @@ idna==2.5                 # via requests
 imagesize==0.7.1          # via sphinx
 Jinja2==2.10.1            # via sphinx
 MarkupSafe==1.0           # via jinja2
-Pygments==2.2.0           # via sphinx
+Pygments==2.15.0           # via sphinx
 pytz==2017.2              # via babel
 requests==2.20.0          # via sphinx
 six==1.10.0               # via sphinx
